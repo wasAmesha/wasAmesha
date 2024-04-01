@@ -58,13 +58,13 @@
 
 ### 📈 GitHub Stats:
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=wasamesha&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasamesha&" alt="GitHub Contribution Stats" />
+<p align="left" style="background-color:#233248;">
+    <img src="https://github-readme-stats.vercel.app/api?username=wasamesha&show_icons=true&locale=en&title_color=FDCE15&icon_color=5A67D8&text_color=9f9f9f&bg_color=233248" alt="GitHub Stats" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasamesha&title_color=FDCE15&icon_color=5A67D8&text_color=9f9f9f&bg_color=#233248" alt="GitHub Contribution Stats" />
 </p>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wasamesha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="left" style="background-color:#233248;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wasamesha&show_icons=true&locale=en&layout=compact&title_color=FDCE15&icon_color=5A67D8&text_color=9f9f9f&bg_color=233248" alt="Top Languages" />
 </p>
 
 ---
