@@ -1,4 +1,4 @@
-![logo](https://github.com/wasAmesha/wasAmesha/blob/main/Gitnub%banner.png)
+![logo](https://github.com/wasAmesha/wasAmesha/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi there! I'm Amesha Wahalathanthri 👋</h1>
 <h3 align="center">A Passionate Computer Engineering Student from Sri Lanka</h3>
