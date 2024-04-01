@@ -58,14 +58,28 @@
 
 ### 📈 GitHub Stats:
 
-<p align="left" style="background-color:#233248;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wasamesha&show_icons=true&locale=en&title_color=FDCE15&icon_color=5A67D8&text_color=9f9f9f&bg_color=233248" alt="GitHub Stats" /> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasamesha&title_color=FDCE15&icon_color=5A67D8&text_color=9f9f9f&bg_color=#233248" alt="GitHub Contribution Stats" />
-</p>
+<table>
+<!-----Contribution figures------>
+<tr>
+<td>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats</h3>
+<p align= "center"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=wasamesha&&show_icons=true&title_color=42BEFC&icon_color=EFCF01&text_color=D2D2D2&bg_color=0,000000,130F40">
+</td>
 
-<p align="left" style="background-color:#233248;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wasamesha&show_icons=true&locale=en&layout=compact&title_color=FDCE15&icon_color=5A67D8&text_color=9f9f9f&bg_color=233248" alt="Top Languages" />
-</p>
+<!------------ Streak Display -------------->
+<td>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats </h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasamesha&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="HrugVed" /></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<!------------ Languages stats -------------->
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages Stats </h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasamesha&theme=algolia" alt="HrugVed" /></p>
+</td>
+</tr>
+</table>
 
 ---
 
