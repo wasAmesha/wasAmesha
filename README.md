@@ -71,7 +71,7 @@
 
 ### 📫 Let's Connect:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amesha-wahalathanthri)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amesha-wahalathanthri-0686512b8)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ameshawahalathanthri20@gmail.com)
 
 ---
