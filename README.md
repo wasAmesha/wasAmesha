@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="coding" width="320" height="280" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
+<img align="right" alt="coding" width="320" height="250" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
 
 ### 📝 About Me:
 
